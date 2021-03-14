@@ -1,18 +1,22 @@
 {
-    "name": "endpot/camunda-rest-client",
+    "name": "vytsci/camunda-rest-client",
     "description": "camunda rest client",
     "type": "library",
     "require": {
-        "guzzlehttp/guzzle": "^6.0"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.0"
+        "phpunit/phpunit": "^8.0"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "HunterXuan",
             "email": "endpot@gmail.com"
+        },
+        {
+            "name": "Vytenis Sciukas",
+            "email": "vytsci@gmail.com"
         }
     ],
     "autoload": {
